@@ -73,7 +73,6 @@
             this.label3.Size = new System.Drawing.Size(149, 31);
             this.label3.TabIndex = 4;
             this.label3.Text = "現在の段位";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label4
             // 
@@ -84,7 +83,6 @@
             this.label4.Size = new System.Drawing.Size(68, 31);
             this.label4.TabIndex = 5;
             this.label4.Text = "段位";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // groupBox1
             // 
@@ -125,7 +123,6 @@
             this.label6.Size = new System.Drawing.Size(244, 31);
             this.label6.TabIndex = 5;
             this.label6.Text = "〇〇〇〇/〇〇〇〇";
-            this.label6.Click += new System.EventHandler(this.label6_Click_1);
             // 
             // groupBox3
             // 
@@ -186,7 +183,6 @@
             this.label10.Size = new System.Drawing.Size(117, 31);
             this.label10.TabIndex = 5;
             this.label10.Text = "+○○○";
-            this.label10.Click += new System.EventHandler(this.label10_Click);
             // 
             // groupBox5
             // 
